@@ -1,0 +1,31 @@
+navbar_entries:
+  - title: about
+    url: about
+
+  - title: blog
+    url: blog
+
+  - title: sponsors
+    url: sponsors
+
+  - title: contacts
+    url: contacts
+
+project_entries:
+  - title: Getting Started
+    url: overview-post
+    desc: Must read
+
+  - title: Hardware
+    url: overview-post
+    desc: 
+
+  - title: Software
+    url: overview-post
+    desc: 
+
+
+footer_entries:
+  - title: github
+    url: https://github.com/Dirobots
+
