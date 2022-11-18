@@ -1,20 +1,23 @@
 navbar_entries:
-  - title: about
+  - title: About
     url: about
 
-  - title: blog
+  - title: Blog
     url: blog
 
-  - title: sponsors
+  - title: Journal de Bord
+    url: journal_de_bord
+
+  - title: Sponsors
     url: sponsors
 
-  - title: contacts
-    url: contacts
+  # - title: Contacts
+  #   url: contacts
 
 project_entries:
   - title: Getting Started
     url: overview-post
-    desc: Must read
+    desc: 
 
   - title: Hardware
     url: overview-post

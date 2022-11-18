@@ -37,6 +37,12 @@ layout: default
 <!-- {% endif %} -->
 
 
+{% if site.theme_config.show_learning_paths == true %}
+  <h2>{{ site.theme_config.home.title_learning_paths}}</h2>
+  {% include card_list.html collection=site.data.home.project_entries %}
+{% endif %}
+
+
 {% if site.theme_config.show_footer == true %}
   <footer>
     <div class="dashed"></div>
