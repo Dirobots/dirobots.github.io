@@ -31,15 +31,15 @@ layout: default
 <!--   {% include post_list.html %} -->
 <!-- {% endif %} -->
 
-<!-- {% if site.theme_config.show_old_projects == true %} -->
-<!--   <h2>{{ site.theme_config.home.title_old_projects }}</h2> -->
-<!--   {% include card_list.html collection=site.data.home.old_project_entries %} -->
-<!-- {% endif %} -->
+{% if site.theme_config.show_competitions == true %}
+  <h2>{{ site.theme_config.home.title_competitions}}</h2>
+  {% include card_list.html collection=site.data.home.competitions_entries %}
+{% endif %}
 
 
 {% if site.theme_config.show_learning_paths == true %}
   <h2>{{ site.theme_config.home.title_learning_paths}}</h2>
-  {% include card_list.html collection=site.data.home.project_entries %}
+  {% include card_list.html collection=site.data.home.learning_entries %}
 {% endif %}
 
 

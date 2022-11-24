@@ -26,11 +26,14 @@ theme_config:
   show_copyright: true # show copyright notice in footer
   # following keys are using to create home layout
   show_learning_paths: true # show projects as cards, add in _data/home.yml
+  show_competitions: true
   show_reading_time: true # show number of words and reading time in the blog posts
   show_tags: true # show tags in a blog posts
   # options for "home" page
   home:
-    title_learning_paths: Learning Paths
+    title_competitions: Compétitions
+    title_learning_paths: Guide d'apprentissage
+
 
 soopr:
   publish_token: "" # sign up at https://www.soopr.co to get your publish token and personalize share and reaction options

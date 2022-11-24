@@ -2,8 +2,8 @@ navbar_entries:
   - title: About
     url: about
 
-  - title: Blog
-    url: blog
+  # - title: Blog
+  #   url: blog
 
   - title: Journal de Bord
     url: journal_de_bord
@@ -14,18 +14,24 @@ navbar_entries:
   # - title: Contacts
   #   url: contacts
 
-project_entries:
+
+learning_entries:
   - title: Getting Started
-    url: overview-post
+    url: getting-started
     desc: 
 
   - title: Hardware
-    url: overview-post
+    url: hardware
     desc: 
 
   - title: Software
-    url: overview-post
+    url: software
     desc: 
+
+
+competitions_entries:
+  - title: RoboCup 2022
+    url : 
 
 
 footer_entries:
