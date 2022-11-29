@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: navbar_page
 title: About
 ---
 
