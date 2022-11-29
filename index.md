@@ -1,3 +1,7 @@
 ---
-layout: home
+layout: navbar_page
+title: Home
 ---
+
+
+

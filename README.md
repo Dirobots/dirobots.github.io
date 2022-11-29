@@ -5,9 +5,12 @@ The website is using the template [moonwalk](https://github.com/abhinavs/moonwal
 
 ## Getting started
 
-- `_data/home.yml`:
+- `_data/`:
 - `_layouts/`: 
 - `_includes/`:
+
+- to add new item in navbar title, go in `_data/navbar.yml` and create item 
+  in root directory
 
 
 ## Ressources

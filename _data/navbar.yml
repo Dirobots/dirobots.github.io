@@ -1,0 +1,15 @@
+- title: Home
+  url: index
+
+- title: About
+  url: about
+
+# - title: Blog
+#   url: blog
+
+- title: Journal de Bord
+  url: journal
+
+- title: Sponsors
+  url: sponsors
+
