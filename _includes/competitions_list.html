@@ -1,0 +1,13 @@
+
+<ul>
+{% for competition in site.data.competitions %}
+    {% if competition.is_active %}
+      <li class="competition-list-item">
+	  {{ competition.name }}
+	  <!-- TODO: add url for competition -->
+	<!-- <a href="{{ post.url | relative_url }}">{{ competiton.title }}</a> -->
+      </li>
+    {% endif %}
+{% endfor %}
+</ul>
+
