@@ -3,6 +3,9 @@ layout: navbar_page
 title: About
 ---
 
-This is an example page!
+Club de robotique de l'Université de Montréal
 
-Actually, it has the same layout of a post...
+Local: 3192 Pavillon André-Aisenstadt
+
+
+Nos rencontres se déroulent le mercredi à 16h et le jeudi à 12h30.
